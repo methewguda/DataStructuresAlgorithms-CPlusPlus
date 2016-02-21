@@ -1,0 +1,6 @@
+The penultimate Polynomials are:
+	2x^2 + 5x + -4
+	7x^3 + 3x^2 + 9
+	4x^5 + 7x^3 + -1x^2
+	4x^5 + 7x^3 + 3x^2 + x + 9
+
